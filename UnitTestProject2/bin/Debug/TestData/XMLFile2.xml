@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>
+		<LoginDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>problem_user</username>
+			<password>secret_sauce</password>
+		</LoginDetails>
+		<LoginDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>standard_user</username>
+			<password>secret_sauce</password>
+		</LoginDetails>
+		<LoginDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>locked_out_user</username>
+			<password>secret_sauce</password>
+		</LoginDetails>
+		<LoginDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>performance_glitch_user</username>
+			<password>secret_sauce</password>
+		</LoginDetails>
+		<LogoutDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>problem_user</username>
+			<password>secret_sauce</password>
+			<logoutexpected>Swag Labs</logoutexpected>
+		</LogoutDetails>
+		<HomeDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>problem_user</username>
+			<password>secret_sauce</password>
+			<product>Sauce Labs Onesie</product>
+		</HomeDetails>
+		<InformationDetails>
+			<url>https://www.saucedemo.com/</url>
+			<username>standard_user</username>
+			<password>secret_sauce</password>
+			<product>Sauce Labs Onesie</product>
+			<firstname>Imran</firstname>
+			<lastname>Rarani</lastname>
+			<zipcode>444601</zipcode>
+		</InformationDetails>
+	</Execution>
+</Automation>
